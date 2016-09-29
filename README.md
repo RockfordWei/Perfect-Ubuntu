@@ -18,7 +18,7 @@
     </a>  
     <a href="http://perfect.ly" target="_blank">
         <img src="http://www.perfect.org/github/Perfect_GH_button_4_slack.jpg" alt="Join the Perfect Slack" />
-    </a> 
+    </a>
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@
 
 This project includes a script which will install Swift directly into your Ubuntu system.  The account using the script will require administrative privileges.  You can invoke the script by using the following command:
 
+（本项目是一个将Swift直接安装到Ubuntu系统的脚本。使用时需要系统管理员权限。使用方法如下：）
 ```
 ./install_swift.sh
 ```
-
